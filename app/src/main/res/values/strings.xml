@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PizzaRecipes</string>
+
+    <string name="pizza_1_title">Chicken tikka masala pizzas</string>
+    <string name="pizza_1_description">Combine two takeaway favourites with these easy chicken tikka masala pizzas. Simply top naan breads with spiced chicken, green peppers, natural yogurt, mango chutney and coriander. This simple dinner comes together in just 20 minutes.</string>
+
+    <string name="pizza_2_title">Sausage and pesto pizza</string>
+    <string name="pizza_2_description">Make these cheesy sausage and pesto pizzas with just a handful of ingredients for an easy, takeaway-style dinner. Top frozen pizza dough with a tomato sauce, pork sausage, buffalo mozzarella, fresh pesto and basil leaves.</string>
+
+    <string name="pizza_3_title">Rainbow pizzas</string>
+    <string name="pizza_3_description">This colourful dinner is a great way for kids to get their five-a-day. Top two plain pizza bases with mozzarella cherries, red and yellow tomatoes, sprouting broccoli, green olives, fresh pesto and basil leaves.</string>
+
+    <string name="pizza_4_title">Spinach and blue cheese pizza</string>
+    <string name="pizza_4_description">Try a more unique pizza topping with this vegetarian spinach and blue cheese pizza. Try making your own pizza base with wholewheat spelt flour. Then top with crumbled blue cheese, mushrooms, leafy spinach, red onions and walnuts.</string>
+
+    <string name="pizza_5_title">Frying pan pizza with aubergine, ricotta and mint</string>
+    <string name="pizza_5_description">Make your pizza on the stove in a frying pan to ensure an extra crispy base. Fry some sliced aubergines with a drizzle of olive oil until tender and cooked through. Add to your pizza with spoonfuls of ricotta. Scatter with mint and drizzle with a little extra virgin olive oil just before serving.</string>
+
+    <string name="pizza_6_title">Roast cauliflower cheese pizza</string>
+    <string name="pizza_6_description">Combine two classic comfort foods – pizza and cauliflower cheese, with this easy recipe. First roast some cauliflower until tender, then spread mascarpone on the pizza base. Scatter over the cauliflower and dot over the remaining mascarpone, then sprinkle with cheese.</string>
+
+    <string name="pizza_7_title">Caramelised onion and goat’s cheese pizza</string>
+    <string name="pizza_7_description">This easy recipe uses goat’s cheese for tang, while the onions give it sweetness. Add baby spinach leaves, Kalamata olives, thyme, sunflower seeds and drizzle with balsamic vinegar.</string>
+
+    <string name="pizza_8_title">BBQ chicken pizza</string>
+    <string name="pizza_8_description">This filling pizza with hearty toppings is sure to go down a storm, plus it’s low in fat and calories. Top with smoked cheese, diced chicken breast, peppers, onions, baby plum tomatoes and barbecue sauce.</string>
+
+    <string name="pizza_9_title">Rye pizza with figs, fennel, gorgonzola and hazelnuts</string>
+    <string name="pizza_9_description">This sophisticated pizza is an elegant option for adults on date night. Make the base with a mixture of strong white flour, ’00’ flour, rye flour and semolina flour. Thinly slice the fennel with a knife or mandolin, then fry with onions until cooked through. Top the pizza with the fennel mixture, halved figs, crumbled gorgonzola and finish with balsamic vinegar.</string>
+
+    <string name="pizza_10_title">Tuna, olive and rocket pizzas</string>
+    <string name="pizza_10_description">Put storecupboard ingredients to use with these thrifty, family-friendly pizzas. Use a pizza base mix for the dough, then top with shredded mozzarella, tinned tuna, capers, black kalamata olives, thinly sliced red onion and a handful of rocket leaves.</string>
+</resources>
